@@ -1,1 +1,2 @@
 Nuevo archivo para prácticar. Ejercicio 2 de introducción a git.
+Segunda línea en el archivo como parte del tercer ejercicio.
